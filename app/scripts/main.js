@@ -1,1 +1,7 @@
-console.log('\'Allo \'Allo!');
+require(['jquery'], function($) {
+	'use strict';
+
+	$(function() {
+		
+	});
+});
